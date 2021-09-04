@@ -15,6 +15,9 @@ commit all the changes in the directory //commit all changes directory
 git restore --staged <file>  //unstage a file
 ```
 
+### See files committed on a branch
+`git log --stat`
+
 ### See differences
 ```
 git diff  //to see uncommitted changes
