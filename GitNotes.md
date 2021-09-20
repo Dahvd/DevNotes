@@ -1,5 +1,7 @@
 # Git Notes
 
+
+git force pull
 ### Branching
 ```
 git branch <branch-name>
